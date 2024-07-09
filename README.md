@@ -1,15 +1,15 @@
 # Ecommerce application
-# eKart is an e-commerce web application built using Python, Django, and Django Rest Framework. It features a modern, responsive design using HTML, CSS, and Bootstrap 5. The application includes user authentication with email confirmation and password reset functionalities, as well as payment integration via PayPal.
+eKart is an e-commerce web application built using Python, Django, and Django Rest Framework. It features a modern, responsive design using HTML, CSS, and Bootstrap 5. The application includes user authentication with email confirmation and password reset functionalities, as well as payment integration via PayPal.
 
 # Features
-# User Authentication: Secure user registration, login, and logout.
-# Email Confirmation: Users must confirm their email addresses to activate their accounts.
-# Password Reset: Users can reset their passwords via email.
-# Product Management: Admin can add, edit, and delete products.
-# Shopping Cart: Users can add products to their cart and proceed to checkout.
-# Payment Integration: Secure payment processing using PayPal.
-# Responsive Design: Mobile-friendly layout using Bootstrap 5.
-# RESTful API: Backend API built using Django Rest Framework for handling data operations.
+ User Authentication: Secure user registration, login, and logout.
+ Email Confirmation: Users must confirm their email addresses to activate their accounts.
+ Password Reset: Users can reset their passwords via email.
+ Product Management: Admin can add, edit, and delete products.
+ Shopping Cart: Users can add products to their cart and proceed to checkout.
+ Payment Integration: Secure payment processing using PayPal.
+ Responsive Design: Mobile-friendly layout using Bootstrap 5.
+ RESTful API: Backend API built using Django Rest Framework for handling data operations.
 
 Installation
 Clone the repository
